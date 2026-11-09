@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dev Tee 👋</h1>
+<h1 align="center">Hi, I'm Olaniyi Toluwase(Dev Tee)👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7B7&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%2B+Laravel+Developer;I+Build+Real+Web+Apps" alt="Typing SVG" />
